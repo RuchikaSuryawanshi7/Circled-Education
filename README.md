@@ -1,5 +1,5 @@
 # Circled-Education
-<img src="">
+<img src="https://github.com/RuchikaSuryawanshi7/Circled-Education/blob/main/Images/Black%20and%20Blue%20Thin%20Geometric%20Lines%20Pitch%20Deck%20for%20Nonprofits%20Pitch%20Deck%20Presentation.png">
 Problem statement
 In some parts of the world, individuals with hearing disabilities have been neglected and disregarded. Many struggle with pursuing their education especially in the IT field. Regarding networking, there hasn’t been any platform that helps them reach others with impaired hearing across the globe. They have been sidelined, and some have been finding it difficult to pass a particular course because they have no one to understand and assist them. For example, A friend of Maureen's in Germany had started a python course in school. He was given an assignment but was incapable of how to complete it. He could have asked his classmates or others who could have assisted him, but because of the language barrier (they didn’t know sign language), he couldn’t communicate with them properly which led to him dropping out of the course. Therefore, awareness and assistance should be granted to those who are at a disadvantage all around the world. They shouldn’t have to struggle the way Maureen’s friend had, and they should be given equity to give them equality.
 Solution
