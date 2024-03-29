@@ -1,12 +1,12 @@
-# Circled-Education
+# Circled-Education #
 <img height=500px src="https://github.com/RuchikaSuryawanshi7/Circled-Education/blob/main/Images/Black%20and%20Blue%20Thin%20Geometric%20Lines%20Pitch%20Deck%20for%20Nonprofits%20Pitch%20Deck%20Presentation.png">
-##Problem statement
+##Problem statement ##
 In some parts of the world, individuals with hearing disabilities have been neglected and disregarded. Many struggle with pursuing their education especially in the IT field. Regarding networking, there hasn’t been any platform that helps them reach others with impaired hearing across the globe. They have been sidelined, and some have been finding it difficult to pass a particular course because they have no one to understand and assist them. For example, A friend of Maureen's in Germany had started a python course in school. He was given an assignment but was incapable of how to complete it. He could have asked his classmates or others who could have assisted him, but because of the language barrier (they didn’t know sign language), he couldn’t communicate with them properly which led to him dropping out of the course. Therefore, awareness and assistance should be granted to those who are at a disadvantage all around the world. They shouldn’t have to struggle the way Maureen’s friend had, and they should be given equity to give them equality.
-## Solution
+## Solution ##
 Although an app called Quora exists, where users could utilize a question and answer website, it is too generalized and isn’t oriented towards assisting hearing impaired individuals. Circled Education, a soon-to-be social media platform for people with hearing disabilities, could assist millions of people with hearing disabilities pursue a proper education without being hassled with disadvantages that typical people wouldn’t experience. In this app, students can interact with each other through video chat and text. By providing video chatting, people with hearing disabilities can use sign language and communicate with other people who are fluent in sign language. Furthermore, training in various fields will be held allowing users to join lectures, work in breakout rooms, and receive feedback from experts live around the globe. 
 Target Market/Audience
 - Students ranging from College students to Post PhD especially those with hearing impairments
-## Summary
+## Summary ##
 Circled Education - premium redesign educational application for Generation Y launched on November 15th, 2021.
 
 Today, Circled Education announces the new educational platform for the hearing and hearing impaired, to learn, network, and connect. We want to be able to make an impact through technology to the hearing impaired, help them develop pride in developing their skills, and help them gain the confidence to ask questions to complete their coursework. We want to be able to do something good for the world we all live in, and we want to help decrease the amount of disadvantaged people from dropping out of college courses by offering the following core benefits:
